@@ -17,6 +17,7 @@
    * Read/listen poetry
    * Play with my daughter **Hano Noor Aheer**
 ---
+<a href="https://app.daily.dev/aheer"><img src="https://api.daily.dev/devcards/05d9390a067742d884c61c17ddc27b2a.png?r=kao" width="400" alt="Hassan Shahzad Aheer's Dev Card"/></a>
 ![Aheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanshahzadaheer&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanshahzadaheer&layout=compact)](https://github.com/hassanshahzadaheer/github-readme-stats)
 
