@@ -16,6 +16,15 @@
 - ⚡ Fun fact: 
    * Read/listen poetry
    * Play with my daughter **Hano Noor Aheer**
+
+### Skills 👨‍💻
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,dart,php,c,vim,html,css,bash,linux,mysql,wordpress,vscode," />
+  </a>
+</p>
+
 ---
 <a href="https://app.daily.dev/aheer"><img src="https://api.daily.dev/devcards/05d9390a067742d884c61c17ddc27b2a.png?r=kao" width="400" alt="Hassan Shahzad Aheer's Dev Card"/></a>
 ![Aheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanshahzadaheer&show_icons=true)
