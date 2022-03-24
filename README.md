@@ -1,8 +1,8 @@
-### :computer: Hi, I'm a Web Developer working in Karachi, Pakistan.👋
+### :computer: Asslam O Alikum, I'm a App Developer and Teacher based in Karachi, Pakistan.👋
 ---
  
 
-- 🔭 I’m currently working on Webcrex.com
+- 🔭 I’m currently working at Webcrex Pakistan
 - 🌱 I’m currently learning Data Structure and Algorithm!
 - 👯 I’m looking to collaborate on Youtube courses, Programming fundamentals.
 - 🤔 I’m looking for help with Data structure and Algorithm problems.
@@ -15,7 +15,7 @@
 - 😄 Pronouns: aheer
 - ⚡ Fun fact: 
    * Read/listen poetry
-   * Play with my daughter **Hano Noor Aheer**
+   * Play with my daughter **Hano Shahzad Aheer**
 
 ### Skills 👨‍💻
 ---
