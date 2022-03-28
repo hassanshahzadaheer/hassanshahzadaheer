@@ -64,13 +64,17 @@
   </a>
 </div>
 
-<div id="dailydev" align="right"> 
+<div id="dailydev" align="left"> 
+ 
   
 ![Aheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanshahzadaheer&show_icons=true)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hassanshahzadaheer&theme=flag-india)](https://git.io/streak-stats)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanshahzadaheer&layout=compact)](https://github.com/hassanshahzadaheer/github-readme-stats)
   
   
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hassanshahzadaheer&theme=flag-india)](https://git.io/streak-stats)
+
