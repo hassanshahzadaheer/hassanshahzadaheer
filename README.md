@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp" width="150" height="150"/>
+</div>
 ### :computer: Asslam O Alikum, I'm a App Developer and Teacher based in Karachi, Pakistan.👋
 ---
  
