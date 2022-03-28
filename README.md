@@ -56,7 +56,6 @@
 </p>
 
 ---
-
 ### :fire: My Stats :
 <div id="dailydev" align="left">
   <a href="https://app.daily.dev/aheer">
