@@ -23,6 +23,10 @@
   
 </div>
   
+  <div align="center">
+  <img src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="600" height="400"/>
+</div>
+  
 ## :man_technologist: About me
 ---
 #### :computer: Asslam O Alikum, I'm a App Developer and Teacher based in Karachi, Pakistan.👋
