@@ -2,7 +2,6 @@
   <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp" width="150" height="150"/>
 </div>
 
----
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hassanshahzadaheer/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,9 +23,9 @@
   
 </div>
   
-
-### :computer: Asslam O Alikum, I'm a App Developer and Teacher based in Karachi, Pakistan.👋
+## :man_technologist: About me
 ---
+#### :computer: Asslam O Alikum, I'm a App Developer and Teacher based in Karachi, Pakistan.👋
  
 
 - 🔭 I’m currently working at Webcrex Pakistan
