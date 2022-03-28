@@ -24,7 +24,7 @@
 </div>
   
   <div align="center">
-  <img src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="600" height="400"/>
+  <img src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="690" height="400"/>
 </div>
   
 ## :man_technologist: About me
