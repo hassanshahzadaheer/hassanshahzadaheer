@@ -64,6 +64,8 @@
   </a>
 </div>
 
+---
+
 <div id="dailydev" align="left"> 
  
   
@@ -77,4 +79,10 @@
 </div>
 
 
+---
 
+### :writing_hand: Blog Posts :
+
+* [How web works](https://aheer.devdojo.com/how-the-web-works)?
+* [First website](https://aheer.devdojo.com/the-first-step-to-writing-a-website)
+* [All about text](https://aheer.devdojo.com/all-about-text-formatting-in-html)
