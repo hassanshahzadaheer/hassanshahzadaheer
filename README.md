@@ -47,7 +47,7 @@
    * Read/listen poetry
    * Play with my daughter **Hano Shahzad Aheer**
 
-### Skills 👨‍💻
+### :hammer_and_wrench: Languages and Tools : Skills 👨‍💻
 ---
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,8 +56,21 @@
 </p>
 
 ---
-<a href="https://app.daily.dev/aheer"><img src="https://api.daily.dev/devcards/05d9390a067742d884c61c17ddc27b2a.png?r=kao" width="400" alt="Hassan Shahzad Aheer's Dev Card"/></a>
+
+### :fire: My Stats :
+<div id="dailydev" align="left">
+  <a href="https://app.daily.dev/aheer">
+    <img src="https://api.daily.dev/devcards/05d9390a067742d884c61c17ddc27b2a.png?r=kao" width="350"  alt="Hassan Shahzad Aheer's Dev Card"/>
+  </a>
+</div>
+
+<div id="dailydev" align="right"> 
+  
 ![Aheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanshahzadaheer&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanshahzadaheer&layout=compact)](https://github.com/hassanshahzadaheer/github-readme-stats)
+  
+  
+</div>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hassanshahzadaheer&theme=flag-india)](https://git.io/streak-stats)
