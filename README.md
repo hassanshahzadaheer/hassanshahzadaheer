@@ -1,6 +1,24 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp" width="150" height="150"/>
 </div>
+
+---
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/hassanshahzadaheer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://img.shields.io/youtube/channel/subscribers/UC0tuJu6F3wB9vy4z7t2vqQA?logo=YouTube&style=for-the-badge">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC0tuJu6F3wB9vy4z7t2vqQA?logo=YouTube&style=for-the-badge"/>
+  </a>
+  <a href="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer">
+    <img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer" alt="Twitter Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/2770543/hassan-shahzad-aaheer">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  
+
 ### :computer: Asslam O Alikum, I'm a App Developer and Teacher based in Karachi, Pakistan.👋
 ---
  
