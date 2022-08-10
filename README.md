@@ -32,11 +32,11 @@
 #### :computer: Asslam O Alikum, I'm a App Developer and Teacher based in Karachi, Pakistan.👋
  
 
-- 🔭 I’m currently working at Webcrex Pakistan
+- 🔭 I’m currently working at Teayaar Technology Services
 - 🌱 I’m currently learning Data Structure and Algorithm!
 - 👯 I’m looking to collaborate on Youtube courses, Programming fundamentals.
 - 🤔 I’m looking for help with Data structure and Algorithm problems.
-- 💬 Ask me about C, Java, PHP, or any computer science related question.
+- 💬 Ask me about C, Java, PHP, .net or any computer science related question.
 - 📫 How to reach me: <br>
    * ![Twitter URL](https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0tuJu6F3wB9vy4z7t2vqQA?logo=YouTube&style=for-the-badge)
    * LinkedIn [hassanshahzadaheer](https://www.linkedin.com/in/hassanshahzadaheer/)
