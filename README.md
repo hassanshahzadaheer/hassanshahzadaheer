@@ -32,7 +32,6 @@
 #### :computer: Asslam O Alikum, I'm a App Developer and Teacher based in Karachi, Pakistan.👋
  
 
-- 🔭 I’m currently working at Teayaar Technology Services
 - 🌱 I’m currently learning Data Structure and Algorithm!
 - 👯 I’m looking to collaborate on Youtube courses, Programming fundamentals.
 - 🤔 I’m looking for help with Data structure and Algorithm problems.
