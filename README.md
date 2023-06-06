@@ -46,6 +46,12 @@
    * Read/listen poetry
    * Play with my daughter **Hano Shahzad Aheer**
 
+<a href="https://www.github.com/hassanshahzadaheer" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hassanshahzadaheer?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a> <a href="https://www.twitter.com/hshahzadaheer" target="_blank" rel="noreferrer"> <img
+src="https://img.shields.io/twitter/follow/hshahzadaheer?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
+/></a>
+
+
 ### :hammer_and_wrench: Languages and Tools : Skills 👨‍💻
 ---
 <p align="center">
@@ -64,20 +70,20 @@
 
 ---
 
-<div id="dailydev" align="left"> 
- 
-  
-![Aheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanshahzadaheer&show_icons=true)
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hassanshahzadaheer&theme=flag-india)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanshahzadaheer&layout=compact)](https://github.com/hassanshahzadaheer/github-readme-stats)
-  
-  
-</div>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/hassanshahzadaheer"><img src="https://github-readme-stats.vercel.app/api?username=hassanshahzadaheer&show_icons=true&hide=prs,&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="hassanshahzadaheer's GitHub stats" /></a>
+
+<a href="http://www.github.com/hassanshahzadaheer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshahzadaheer&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
----
+<a href="https://github.com/hassanshahzadaheer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanshahzadaheer&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/hassanshahzadaheer/Code-DSA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanshahzadaheer&repo=Code-DSA&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hassanshahzadaheer/cs50x-2021" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanshahzadaheer&repo=cs50x-2021&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### :writing_hand: Blog Posts :
 
