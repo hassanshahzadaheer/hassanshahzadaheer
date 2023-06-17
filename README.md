@@ -29,21 +29,21 @@
   
 ## :man_technologist: About me
 ---
-#### :computer: Asslam O Alikum, I'm a App Developer and Teacher based in Karachi, Pakistan.👋
+#### :computer: Hi, I'm a Software Developer based in Karachi, Pakistan.👋
  
 
-- 🌱 I’m currently learning Data Structure and Algorithm!
+- 🌱 I’m currently learning Data Structure and Algorithms!
 - 👯 I’m looking to collaborate on Youtube courses, Programming fundamentals.
 - 🤔 I’m looking for help with Data structure and Algorithm problems.
-- 💬 Ask me about C, Java, PHP, .net or any computer science related question.
+- 💬 Ask me about C, Java, PHP, or any computer science-related question.
 - 📫 How to reach me: <br>
-   * ![Twitter URL](https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0tuJu6F3wB9vy4z7t2vqQA?logo=YouTube&style=for-the-badge)
+   * ![Twitter URL](https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer)
    * LinkedIn [hassanshahzadaheer](https://www.linkedin.com/in/hassanshahzadaheer/)
    * Facebook [aheerthecoder](https://www.facebook.com/aheerthecoder)
 
 - 😄 Pronouns: aheer
 - ⚡ Fun fact: 
-   * Read/listen poetry
+   * Read/listen to poetry
    * Play with my daughter **Hano Shahzad Aheer**
 
 <a href="https://www.github.com/hassanshahzadaheer" target="_blank" rel="noreferrer"><img
@@ -52,11 +52,11 @@ src="https://img.shields.io/twitter/follow/hshahzadaheer?logo=twitter&style=for-
 /></a>
 
 
-### :hammer_and_wrench: Languages and Tools : Skills 👨‍💻
+### :hammer_and_wrench: Languages and Tools: Skills 👨‍💻
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,dart,flutter,php,c,vim,html,css,bash,linux,mysql,wordpress,vscode,md," />
+    <img src="https://skillicons.dev/icons?i=java,git,flutter,php,c,vim,html,css,bash,linux,mysql,wordpress,vscode,md,laravel" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@ src="https://img.shields.io/twitter/follow/hshahzadaheer?logo=twitter&style=for-
 ### :fire: My Stats :
 <div id="dailydev" align="left">
   <a href="https://app.daily.dev/aheer">
-    <img src="https://api.daily.dev/devcards/05d9390a067742d884c61c17ddc27b2a.png?r=kao" width="350"  alt="Hassan Shahzad Aheer's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/05d9390a067742d884c61c17ddc27b2a.png?r=kao" width="250" height="250"  alt="Hassan Shahzad Aheer's Dev Card"/>
   </a>
 </div>
 
