@@ -64,7 +64,7 @@ src="https://img.shields.io/twitter/follow/hshahzadaheer?logo=twitter&style=for-
 ### :fire: My Stats :
 <div id="dailydev" align="left">
   <a href="https://app.daily.dev/aheer">
-    <img src="https://api.daily.dev/devcards/05d9390a067742d884c61c17ddc27b2a.png?r=kao" width="250" height="250"  alt="Hassan Shahzad Aheer's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/05d9390a067742d884c61c17ddc27b2a.png?r=kao"  alt="Hassan Shahzad Aheer's Dev Card"/>
   </a>
 </div>
 
