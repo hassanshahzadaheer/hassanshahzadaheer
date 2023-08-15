@@ -92,6 +92,7 @@
 </p>
 
 <div id="projects"></div>
+
 <!-- personal projects -->
 ## :rocket: Personal Projects
 
