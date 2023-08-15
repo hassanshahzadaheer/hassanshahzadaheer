@@ -102,7 +102,7 @@
 <div id="skills"></div>
 
 <!-- Skills Section -->
-### :hammer_and_wrench: Languages and Tools: Skills 👨‍💻
+## :hammer_and_wrench: Languages and Tools: Skills 👨‍💻
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -164,45 +164,13 @@ Repository: [Repository Link](https://github.com/hassanshahzadaheer/crud)
 
 
 
-
-
-
-
-
-
-
-
-
-  <div align="center">
-  <img src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="690" height="400"/>
-</div>
-
-## :man_technologist: About me
----
-#### :computer: Hi, I'm a Software Developer based in Karachi, Pakistan.👋
-
-
-- 🌱 I’m currently learning Data Structure and Algorithms!
-- 👯 I’m looking to collaborate on Youtube courses, Programming fundamentals.
-- 🤔 I’m looking for help with Data structure and Algorithm problems.
-- 💬 Ask me about C, Java, PHP, or any computer science-related question.
-- 📫 How to reach me: <br>
-   * ![Twitter URL](https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer)
-   * LinkedIn [hassanshahzadaheer](https://www.linkedin.com/in/hassanshahzadaheer/)
-   * Facebook [aheerthecoder](https://www.facebook.com/aheerthecoder)
-
-- 😄 Pronouns: aheer
-- ⚡ Fun fact:
-   * Read/listen to poetry
-   * Play with my daughter **Hano Shahzad Aheer**
-
 <a href="https://www.github.com/hassanshahzadaheer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hassanshahzadaheer?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a> <a href="https://www.twitter.com/hshahzadaheer" target="_blank" rel="noreferrer"> <img
 src="https://img.shields.io/twitter/follow/hshahzadaheer?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
 /></a>
 
 
----
+
 ### :fire: My Stats :
 <div id="dailydev" align="left">
   <a href="https://app.daily.dev/aheer">
@@ -210,7 +178,7 @@ src="https://img.shields.io/twitter/follow/hshahzadaheer?logo=twitter&style=for-
   </a>
 </div>
 
----
+
 
 ### Badges
 
