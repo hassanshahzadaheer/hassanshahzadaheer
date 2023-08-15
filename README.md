@@ -1,5 +1,49 @@
+<!-- Header Section -->
+<div align="center">
+  <img src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=" width="500" />
+</div>
+
+<!-- Menu Buttons with Basic Styling and Hover Effects -->
+<div align="center">
+  <a href="#about" style="color: #718096; text-decoration: none; margin-right: 20px;"
+     onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">About</a>
+  <a href="#skills" style="color: #718096; text-decoration: none; margin-right: 20px;"
+     onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Skills</a>
+  <a href="#projects" style="color: #718096; text-decoration: none; margin-right: 20px;"
+     onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Projects</a>
+  <a href="#contact" style="color: #718096; text-decoration: none;"
+     onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Contact</a>
+</div>
+
+
+<!-- About Section -->
+## About Me
+
+I'm [Your Name], a passionate software developer with [X] years of experience. I specialize in [Your Expertise]. My goal is to [Your Goal Statement].
+
+- 📍 Location: [Your Location]
+- 🌱 Currently Learning: [Your Current Learning Focus]
+- 💬 Ask me about: [Your Areas of Expertise]
+- 📫 How to reach me: [Your Contact Information]
+
+<!-- Skills Section -->
+## Skills
+
+<!-- Add your skills and technologies using icons (as shown earlier) -->
+
+<!-- Projects Section -->
+## Projects
+
+<!-- List your notable projects with brief descriptions and links -->
+
+<!-- Contact Section -->
+## Contact
+
+<!-- Add your social media links and other contact details -->
+
+
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.webp" width="500" />
+  <img src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=" width="500" />
 </div>
 
 <div id="badges" align="center">
@@ -12,25 +56,25 @@
   <a href="https://stackoverflow.com/users/2770543/hassan-shahzad-aaheer">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow"/>
   </a>
-  
+
   <a href="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer">
     <img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer" alt="Twitter Badge"/>
   </a>
-  
+
    <a href="https://www.facebook.com/aheerthecoder">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  
+
 </div>
-  
+
   <div align="center">
   <img src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="690" height="400"/>
 </div>
-  
+
 ## :man_technologist: About me
 ---
 #### :computer: Hi, I'm a Software Developer based in Karachi, Pakistan.👋
- 
+
 
 - 🌱 I’m currently learning Data Structure and Algorithms!
 - 👯 I’m looking to collaborate on Youtube courses, Programming fundamentals.
@@ -42,7 +86,7 @@
    * Facebook [aheerthecoder](https://www.facebook.com/aheerthecoder)
 
 - 😄 Pronouns: aheer
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
    * Read/listen to poetry
    * Play with my daughter **Hano Shahzad Aheer**
 
