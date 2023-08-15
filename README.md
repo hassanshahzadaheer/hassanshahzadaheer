@@ -7,9 +7,9 @@
 <div align="center">
   <a href="#about" style="color: #718096; text-decoration: none; margin-right: 20px;"
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">About</a>
-  <a href="#hammer_and_wrench" style="color: #718096; text-decoration: none; margin-right: 20px;"
+  <a href="#skills" style="color: #718096; text-decoration: none; margin-right: 20px;"
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Skills</a>
-  <a href="#Experience" style="color: #718096; text-decoration: none; margin-right: 20px;"
+  <a href="#experience" style="color: #718096; text-decoration: none; margin-right: 20px;"
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Experience</a>
   <a href="#contact" style="color: #718096; text-decoration: none;"
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Contact</a>
@@ -35,6 +35,7 @@
 🌏 Driven by an entrepreneurial spirit, I embrace end-to-end project ownership. As a self-motivated individual, I thrive on managing multiple responsibilities, excelling in dynamic settings. My ultimate goal? Providing exceptional software solutions while fostering lasting client relationships through quality work that consistently exceeds expectations.
 <!-- Add your skills and technologies using icons (as shown earlier) -->
 
+<div id="experience"></div>
 <!-- Experience Section -->
 ## Experience
 
@@ -75,10 +76,11 @@
 
 <!-- List your notable projects with brief descriptions and links -->
 
+<div id="skills"></div>
 
 <!-- Skills Section -->
 ### :hammer_and_wrench: Languages and Tools: Skills 👨‍💻
----
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,git,flutter,php,c,vim,html,css,bash,linux,mysql,wordpress,vscode,md,laravel" />
