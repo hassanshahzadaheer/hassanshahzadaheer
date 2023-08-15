@@ -1,8 +1,28 @@
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/hassanshahzadaheer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://img.shields.io/youtube/channel/subscribers/UC0tuJu6F3wB9vy4z7t2vqQA?logo=YouTube&style=for-the-badge">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC0tuJu6F3wB9vy4z7t2vqQA?logo=YouTube&style=for-the-badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/2770543/hassan-shahzad-aaheer">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow"/>
+  </a>
+
+  <a href="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer">
+    <img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer" alt="Twitter Badge"/>
+  </a>
+
+   <a href="https://www.facebook.com/aheerthecoder">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+</div>
 <!-- Header Section -->
 <div align="center">
   <img src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=" width="500" />
 </div>
-<a href="#contact" style="display: inline-block; padding: 10px 20px; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
+
 
 
 <!-- Menu Buttons with Basic Styling and Hover Effects -->
@@ -90,37 +110,68 @@
   </a>
 </p>
 
+<!-- personal projects -->
+## :rocket: Personal Projects
+
+#### 🚀 Code-DSA
+
+**Description:** A repository dedicated to learning and practicing data structures and algorithms.
+
+**Technologies Used:** `Java`, `LeetCode`
+
+Repository: [Repository Link](https://github.com/hassanshahzadaheer/Code-DSA)
+
+#### 🚀 CS50x-2021
+
+**Description:** A collection of projects completed during the CS50x course, showcasing skills in various programming languages.
+
+**Technologies Used:** `C`, `Python`, `MySQL`, `Algorithms`
+
+Repository: [Repository Link](https://github.com/hassanshahzadaheer/cs50x-2021)
+
+#### 🚀 Mini-CRM
+
+**Description:** A mini Customer Relationship Management (CRM) application developed to practice full-stack development.
+
+**Technologies Used:** `PHP`, `MySQL`, `Laravel`, `Vue.js`
+
+Repository: [Repository Link](https://github.com/hassanshahzadaheer/mini-crm)
+
+#### 🚀 Google Drive Integration
+
+**Description:** Integration of Google Drive API to manage files and folders programmatically.
+
+**Technologies Used:** `Google Drive API`
+
+Repository: [Repository Link](https://github.com/hassanshahzadaheer/gdriveintegration)
+
+#### 🚀 CRUD Operations
+
+**Description:** A simple web application demonstrating Create, Read, Update, Delete (CRUD) operations.
+
+**Technologies Used:** `Laravel`, `MySQL`, `GPT`, `JavaScript`
+
+Repository: [Repository Link](https://github.com/hassanshahzadaheer/crud)
+
+
+
+
+
 
 <!-- Contact Section -->
 ## Contact
 
-<!-- Add your social media links and other contact details -->
 
 
-<div id="header" align="center">
-  <img src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=" width="500" />
-</div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/hassanshahzadaheer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://img.shields.io/youtube/channel/subscribers/UC0tuJu6F3wB9vy4z7t2vqQA?logo=YouTube&style=for-the-badge">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC0tuJu6F3wB9vy4z7t2vqQA?logo=YouTube&style=for-the-badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/2770543/hassan-shahzad-aaheer">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow"/>
-  </a>
 
-  <a href="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer">
-    <img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhshahzadaheer" alt="Twitter Badge"/>
-  </a>
 
-   <a href="https://www.facebook.com/aheerthecoder">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
 
-</div>
+
+
+
+
+
 
   <div align="center">
   <img src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="690" height="400"/>
