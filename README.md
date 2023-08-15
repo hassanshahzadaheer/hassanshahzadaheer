@@ -7,7 +7,7 @@
 <div align="center">
   <a href="#about" style="color: #718096; text-decoration: none; margin-right: 20px;"
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">About</a>
-  <a href="#skills" style="color: #718096; text-decoration: none; margin-right: 20px;"
+  <a href="#hammer_and_wrench" style="color: #718096; text-decoration: none; margin-right: 20px;"
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Skills</a>
   <a href="#Experience" style="color: #718096; text-decoration: none; margin-right: 20px;"
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Experience</a>
@@ -48,6 +48,7 @@
 - Implemented inter-service communication strategies and effectively utilized key-value storages.
 
 ### Freelance Full-Stack Developer
+
 **📅 2021 - Present**
 
 - Collaborated with diverse clients on a freelance basis, delivering customized web solutions.
@@ -56,6 +57,7 @@
 
 ### Full-Stack Developer
 🏢 Metrolive Pakistan
+
 **📅 Apr 2020 - May 2022 (2 years 2 months)**
 
 - Collaborated on web development projects, utilizing Laravel and CodeIgniter frameworks.
@@ -64,6 +66,7 @@
 
 ### Web Developer Internship
 🏢 Escape Advertising
+
 **📅 Jul 2018 - Dec 2018 (6 months)**
 
 - Gained valuable experience in website development and management using WordPress and WooCommerce.
@@ -73,10 +76,14 @@
 <!-- List your notable projects with brief descriptions and links -->
 
 
-
 <!-- Skills Section -->
-## Skills
-
+### :hammer_and_wrench: Languages and Tools: Skills 👨‍💻
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,flutter,php,c,vim,html,css,bash,linux,mysql,wordpress,vscode,md,laravel" />
+  </a>
+</p>
 
 
 <!-- Contact Section -->
@@ -138,14 +145,6 @@ src="https://img.shields.io/github/followers/hassanshahzadaheer?logo=github&styl
 src="https://img.shields.io/twitter/follow/hshahzadaheer?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
 /></a>
 
-
-### :hammer_and_wrench: Languages and Tools: Skills 👨‍💻
----
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,flutter,php,c,vim,html,css,bash,linux,mysql,wordpress,vscode,md,laravel" />
-  </a>
-</p>
 
 ---
 ### :fire: My Stats :
