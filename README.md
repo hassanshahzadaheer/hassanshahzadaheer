@@ -9,8 +9,8 @@
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">About</a>
   <a href="#skills" style="color: #718096; text-decoration: none; margin-right: 20px;"
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Skills</a>
-  <a href="#projects" style="color: #718096; text-decoration: none; margin-right: 20px;"
-     onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Projects</a>
+  <a href="#Experience" style="color: #718096; text-decoration: none; margin-right: 20px;"
+     onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Experience</a>
   <a href="#contact" style="color: #718096; text-decoration: none;"
      onmouseover="this.style.color='#4A90E2';" onmouseout="this.style.color='#718096';">Contact</a>
 </div>
@@ -33,16 +33,51 @@
 #### My Approach
 
 🌏 Driven by an entrepreneurial spirit, I embrace end-to-end project ownership. As a self-motivated individual, I thrive on managing multiple responsibilities, excelling in dynamic settings. My ultimate goal? Providing exceptional software solutions while fostering lasting client relationships through quality work that consistently exceeds expectations.
+<!-- Add your skills and technologies using icons (as shown earlier) -->
+
+<!-- Experience Section -->
+## Experience
+
+### Senior Back-end PHP Developer
+**🏢 Teayaar Technology Services, USA**
+📅 Aug 2022 - Present (1 year)
+
+- Developed and maintained dynamic web applications using the Laravel framework and MySQL database.
+- Expertly integrated REST APIs, enhancing the functionality of real-time web applications.
+- Led cross-functional teams, optimizing performance, stability, and security for web systems.
+- Implemented inter-service communication strategies and effectively utilized key-value storages.
+
+### Freelance Full-Stack Developer
+**📅 2021 - Present**
+
+- Collaborated with diverse clients on a freelance basis, delivering customized web solutions.
+- Leveraged expertise in PHP, Laravel, and Vue.js to develop tailored applications.
+- Provided consultancy to clients, guiding them through technology choices and project planning.
+
+### Full-Stack Developer
+🏢 Metrolive Pakistan
+**📅 Apr 2020 - May 2022 (2 years 2 months)**
+
+- Collaborated on web development projects, utilizing Laravel and CodeIgniter frameworks.
+- Managed technical integration with third-party services, ensuring seamless performance and functionality.
+- Contributed to website development, creative design, and digital marketing activities, achieving project objectives.
+
+### Web Developer Internship
+🏢 Escape Advertising
+**📅 Jul 2018 - Dec 2018 (6 months)**
+
+- Gained valuable experience in website development and management using WordPress and WooCommerce.
+- Improved site speed and user experience through content updates, plugin management, and optimization.
+- Collaborated within cross-functional teams, applying problem-solving skills and project management tools.
+
+<!-- List your notable projects with brief descriptions and links -->
+
+
 
 <!-- Skills Section -->
 ## Skills
 
-<!-- Add your skills and technologies using icons (as shown earlier) -->
 
-<!-- Projects Section -->
-## Projects
-
-<!-- List your notable projects with brief descriptions and links -->
 
 <!-- Contact Section -->
 ## Contact
