@@ -2,6 +2,8 @@
 <div align="center">
   <img src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=" width="500" />
 </div>
+<a href="#contact" style="display: inline-block; padding: 10px 20px; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
+
 
 <!-- Menu Buttons with Basic Styling and Hover Effects -->
 <div align="center">
@@ -16,9 +18,9 @@
 </div>
 
 <!-- About Section -->
-## About Me
+## :man_technologist: About Me
 
-👋 AOA there! I'm Hassan Shahzad Aheer, an expert Full-Stack Developer with a deep passion for crafting remarkable web experiences. With over 5 years of hands-on experience in PHP and Laravel, I'm dedicated to delivering high-quality solutions that drive business success.
+👋 AOA there! **I'm Hassan Shahzad Aheer,** an expert Full-Stack Developer with a deep passion for crafting remarkable web experiences. With over 5 years of hands-on experience in PHP and Laravel, I'm dedicated to delivering high-quality solutions that drive business success.
 
 #### What I Offer
 
