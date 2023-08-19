@@ -9,7 +9,7 @@
 <!-- Menu Buttons with Basic Styling and Hover Effects -->
 <div align="center">
   <a href="#skills">Skills</a>&nbsp;&nbsp;&nbsp;
-  ### <a href="#experience">Experience</a>&nbsp;&nbsp;&nbsp;
+  <a href="#experience">Experience</a>&nbsp;&nbsp;&nbsp;
   <a href="#skills">Skills</a>&nbsp;&nbsp;&nbsp;
   <a href="#projects">Projects</a>&nbsp;&nbsp;&nbsp;
   <a href="#blog">Blog</a>&nbsp;&nbsp;&nbsp;
