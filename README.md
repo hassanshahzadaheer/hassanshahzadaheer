@@ -142,10 +142,13 @@ Repository: [Repository Link](https://github.com/hassanshahzadaheer/crud)
 
 ## :writing_hand: Blog Posts
 
+* [Day 3: Crafting Components, Styling, and Local Development](https://dev.to/hassanshahzadaheer/day-3-crafting-components-styling-and-local-development-296i) (Published: Aug 26)
+* [Day 2: React Rendering - From Confusion to Clarity](https://dev.to/hassanshahzadaheer/day-2-react-rendering-from-confusion-to-clarity-5e4e) (Published: Aug 25)
+* [Day 1: Exploration of Core Concepts](https://dev.to/hassanshahzadaheer/getting-started-with-react-day-1-exploration-of-core-concepts-18d2)  (Published: Aug 24)
 * [How web works?](https://aheer.devdojo.com/how-the-web-works)
 * [First website](https://aheer.devdojo.com/the-first-step-to-writing-a-website)
 * [All about text](https://aheer.devdojo.com/all-about-text-formatting-in-html)
-* [How to insert image in Jlabel?](https://programmeraheer.wordpress.com/2013/09/27/how-to-insert-image-in-jlabel/)
+
 
 
 ## 🔝 Top Repositories
