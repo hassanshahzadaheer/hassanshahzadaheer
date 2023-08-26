@@ -45,6 +45,7 @@
 
 ### Senior Back-end PHP Developer
 **🏢 Teayaar Technology Services, USA**
+
 📅 Aug 2022 - Present (1 year)
 
 - Developed and maintained dynamic web applications using the Laravel framework and MySQL database.
