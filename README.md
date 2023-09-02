@@ -142,7 +142,7 @@ Repository: [Repository Link](https://github.com/hassanshahzadaheer/crud)
 <div id="blog"></div>
 
 ## :writing_hand: Blog Posts
-
+* [Day 4: Deep Dive into Understanding Props in React](https://dev.to/hassanshahzadaheer/deep-dive-into-understanding-props-in-react-38g9) (Published: Sep 02)
 * [Day 3: Crafting Components, Styling, and Local Development](https://dev.to/hassanshahzadaheer/day-3-crafting-components-styling-and-local-development-296i) (Published: Aug 26)
 * [Day 2: React Rendering - From Confusion to Clarity](https://dev.to/hassanshahzadaheer/day-2-react-rendering-from-confusion-to-clarity-5e4e) (Published: Aug 25)
 * [Day 1: Exploration of Core Concepts](https://dev.to/hassanshahzadaheer/getting-started-with-react-day-1-exploration-of-core-concepts-18d2)  (Published: Aug 24)
