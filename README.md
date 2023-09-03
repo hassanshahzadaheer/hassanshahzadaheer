@@ -142,6 +142,7 @@ Repository: [Repository Link](https://github.com/hassanshahzadaheer/crud)
 <div id="blog"></div>
 
 ## :writing_hand: Blog Posts
+* [Day 5: Dynamic UI Rendering in React: Understanding of array.map and JSX Mapping](https://dev.to/hassanshahzadaheer/dynamic-ui-rendering-in-react-understanding-of-arraymap-and-jsx-mapping-5h0l) (Published: Sep 03)
 * [Day 4: Deep Dive into Understanding Props in React](https://dev.to/hassanshahzadaheer/deep-dive-into-understanding-props-in-react-38g9) (Published: Sep 02)
 * [Day 3: Crafting Components, Styling, and Local Development](https://dev.to/hassanshahzadaheer/day-3-crafting-components-styling-and-local-development-296i) (Published: Aug 26)
 * [Day 2: React Rendering - From Confusion to Clarity](https://dev.to/hassanshahzadaheer/day-2-react-rendering-from-confusion-to-clarity-5e4e) (Published: Aug 25)
