@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=" width="500" />
+  <img src="=https://img.freepik.com/premium-vector/programmer-with-new-idea-flat-concept-vector-illustration_151150-11992.jpg=" width="500" />
 </div>
 
 </br>
