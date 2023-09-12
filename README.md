@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="=https://img.freepik.com/premium-vector/programmer-with-new-idea-flat-concept-vector-illustration_151150-11992.jpg" width="500" />
+  <img src="https://img.freepik.com/premium-vector/programmer-with-new-idea-flat-concept-vector-illustration_151150-11992.jpg" width="500" />
 </div>
 
 </br>
