@@ -142,6 +142,7 @@ Repository: [Repository Link](https://github.com/hassanshahzadaheer/crud)
 <div id="blog"></div>
 
 ## :writing_hand: Blog Posts
+* [Day 6: Simplified Guide to State in React for Beginners](https://dev.to/hassanshahzadaheer/simplified-guide-to-state-in-react-for-beginners-461o) (Published: Sep 17)
 * [Day 5: Dynamic UI Rendering in React: Understanding of array.map and JSX Mapping](https://dev.to/hassanshahzadaheer/dynamic-ui-rendering-in-react-understanding-of-arraymap-and-jsx-mapping-5h0l) (Published: Sep 03)
 * [Day 4: Deep Dive into Understanding Props in React](https://dev.to/hassanshahzadaheer/deep-dive-into-understanding-props-in-react-38g9) (Published: Sep 02)
 * [Day 3: Crafting Components, Styling, and Local Development](https://dev.to/hassanshahzadaheer/day-3-crafting-components-styling-and-local-development-296i) (Published: Aug 26)
