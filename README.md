@@ -27,8 +27,6 @@
 
 🚀 **Laravel Expertise:** I've refined my skills in Laravel, contributing to projects ranging from simple web applications to intricate enterprise solutions. My profound grasp of PHP and Laravel empowers me to efficiently build robust and scalable web applications.
 
-**🌟 Vue.js Enthusiast:** My journey into frontend development led me to embrace Vue.js, enabling me to create seamless user interfaces that elevate user interactions and satisfaction.
-
 **💡 Problem Solver:** Thriving in challenging environments, I excel in identifying and solving complex issues, optimizing code performance to deliver streamlined and effective solutions.
 
 **🌱 Continuous Learner:** My commitment to growth is ongoing. Currently, I'm mastering vital time management and communication skills, enriching collaboration and productivity.
