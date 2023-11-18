@@ -21,7 +21,7 @@
 <!-- About Section -->
 ## :man_technologist: About Me
 
-👋 AOA there! **I'm Hassan Shahzad Aheer,** an expert Full-Stack Developer with a deep passion for crafting remarkable web experiences. With over 5 years of hands-on experience in PHP and Laravel, I'm dedicated to delivering high-quality solutions that drive business success.
+👋 AOA there! **I'm Hassan Shahzad Aheer,** an expert Full-Stack Developer with a deep passion for crafting remarkable web experiences. With over 3 years of hands-on experience in PHP and Laravel, I'm dedicated to delivering high-quality solutions that drive business success.
 
 #### What I Offer
 
