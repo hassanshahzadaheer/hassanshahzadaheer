@@ -140,6 +140,7 @@ Repository: [Repository Link](https://github.com/hassanshahzadaheer/crud)
 <div id="blog"></div>
 
 ## :writing_hand: Blog Posts
+* [Building a Gym Management App with Laravel, Filament, Herd, and Blueprint](https://dev.to/hassanshahzadaheer/building-a-gym-management-app-with-laravel-filament-herd-and-blueprint-2b3m) (Published: June 9 - 2024)
 * [Big O Notation in Action: Analyzing the Complexity of Common Algorithms](https://dev.to/hassanshahzadaheer/big-o-notation-in-action-analyzing-the-complexity-of-common-algorithms-l2h) (Published: Oct 1)
 * [Day 6: Simplified Guide to State in React for Beginners](https://dev.to/hassanshahzadaheer/simplified-guide-to-state-in-react-for-beginners-461o) (Published: Sep 17)
 * [Day 5: Dynamic UI Rendering in React: Understanding of array.map and JSX Mapping](https://dev.to/hassanshahzadaheer/dynamic-ui-rendering-in-react-understanding-of-arraymap-and-jsx-mapping-5h0l) (Published: Sep 03)
