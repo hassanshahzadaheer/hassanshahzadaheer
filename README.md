@@ -27,10 +27,7 @@ Git · Maven · Postman · Linux
 ## Current Projects
 
 ### ProposalFlow *(In Progress)*
-A client intake and proposal system for freelance engineers.  
-The client fills a short survey, the system generates a priced proposal,  
-and they pay 30% upfront to lock the project — or walk away.  
-The engineer never negotiates out loud.  
+A client intake and proposal system for freelance engineers. The client fills a short survey, the system generates a priced proposal, and they pay 30% upfront to lock the project — or walk away. The engineer never negotiates out loud.  
 `React` `Canvas` `Convex`  
 → *Launching soon*
 
@@ -47,8 +44,7 @@ The engineer never negotiates out loud.
 
 ## Writing
 
-I publish every Sunday on Substack — covering backend engineering,  
-the Laravel → Spring Boot transition, and lessons from building in public.
+I publish every Sunday on Substack — covering backend engineering, the Laravel → Spring Boot transition, and lessons from building in public.
 
 → [Read on Substack](https://hsaheer.substack.com/)
 
@@ -56,8 +52,7 @@ the Laravel → Spring Boot transition, and lessons from building in public.
 
 ## Background
 
-3+ years building production backend systems in PHP and Laravel  
-before transitioning fully to Java and Spring Boot.
+3+ years building production backend systems in PHP and Laravel before transitioning fully to Java and Spring Boot.
 
 ---
 
