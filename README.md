@@ -46,7 +46,7 @@ A client intake and proposal system for freelance engineers. The client fills a 
 
 I publish every Sunday on Substack — covering backend engineering, the Laravel → Spring Boot transition, and lessons from building in public.
 
-→ [Read on Substack](https://hsaheer.substack.com/](https://aheercf.substack.com/)
+→ [Read on Substack](https://aheercf.substack.com/)
 
 ---
 
